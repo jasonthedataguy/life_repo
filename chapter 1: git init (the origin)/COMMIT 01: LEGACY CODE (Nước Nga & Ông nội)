@@ -1,0 +1,70 @@
+┌────────────────────────────────────────────────────────────────────---┐
+│ @jason.log | 01:11 | > git clone --depth 1 legacy://ussr              │
+├────────────────────────────────────────────────────────────────────---┤
+│ [VISUAL: 35mm film grain, sepia-toned Volga landscape                 │
+│  through frosted window. Soviet-era wooden dacha,                     │
+│  amber light bleeding through snowfall. Vintage poster                │
+│  typography overlay. Warm tungsten glow against cold                  │
+│  blue winter dusk]                                                    │
+│                                                                       │
+│ PATH:         /memories/volga/return-home.md                          │
+│ BRANCH:       grandfather-archive                                     │
+│ DIFF:         +23_years_old; dream_still_persists                     │
+│ DEPENDENCIES: Grandpa stories; voz topics; Eastern Europe threads;    │
+│               Shiey — ILLEGAL FREEDOM (Baltic, Chernobyl)             │
+├────────────────────────────────────────────────────────────────────---┤
+│ 👁️ Seen by: Grandfather_Archive, Red_Signal, Volga_Echo,              │
+│            Winter_Compile, Soviet_Dependencies, Stalingrad_Memory     │
+│ ♥: 1945  |  ↗: 237                                                    │
+│                                                                       │
+│ COMMIT: "chore(origin): inherited legacy code from grandfather        │
+│ —some dependencies run in your veins before you fork your own         │
+│ branch."                                                              │
+└────────────────────────────────────────────────────────────────────---┘
+  Tôi chưa bao giờ được đến nước Nga, và tôi cũng không sống trong cái 
+  thời kì Bao Cấp được Liên Xô viện trợ như ông bà hay bố mẹ tôi ngày 
+  trước, nhưng thật kì lạ, tôi lại luôn mơ về hình ảnh một ngày tôi đi 
+  dọc con đường mòn phủ đầy tuyết, băng qua cánh rừng lá kim dọc dòng 
+  sông Volga để trở về trong căn nhà gỗ với ánh sáng vàng từ lò sưởi. 
+  Giấc mơ đó nó mãi ám ảnh tôi đến tận bây giờ, khi tôi đã là một chàng 
+  trai 23 tuổi, nhưng hình ảnh về nước Nga, hay chính xác hơn là Liên Xô, 
+  nó vẫn ở đó. 
+  Tôi không hiểu tại sao tôi lại có sự liên kết với mảnh đất đó đến thế, 
+  có chăng chỉ là những câu chuyện được ông nội tôi kể lại. Ông tôi có 
+  một tình yêu mãnh liệt với nước Nga, với món salad Nga mà tôi chẳng thể 
+  nào thích nổi, với cái lối kiến trúc quy hoạch chung cư thấp tầng nhiều 
+  cây xanh của Liên Xô cũ. Ông luôn kể về chúng với một tông giọng đầy tự 
+  hào, về một thời kì trai trẻ đầy bão táp. Dường như tôi bị ảnh hưởng 
+  bởi những câu chuyện đó, tôi luôn bị thu hút bởi những topic về nước Nga 
+  trên voz, những thread đi du lịch bụi của một chú bác nào đó khắp mấy 
+  nước Đông Âu cũ, hay các bạn biết đấy, một trong những youtuber yêu thích 
+  của tôi là Shiey, với hành trình mang tên ILLEGAL FREEDOM dọc bờ biển 
+  Baltic và vùng đất Chernobyl nổi tiếng.
+-------------------------------------------------------------------------
+┌────────────────────────────────────────────────────────────────────---┐
+│ @jason.log | 01:11 | > git checkout stalingrad_memory                 │
+├────────────────────────────────────────────────────────────────────---┤
+│ PATH:         /games/cod1/stalingrad.scene                            │
+│ BRANCH:       for_mother_russia                                       │
+│ DIFF:         +nostalgia; +awe; +goosebumps                           │
+│ DEPENDENCIES: ông nội bộ đội; bố bộ đội; lịch sử/chiến tranh; COD1    │
+├────────────────────────────────────────────────────────────────────---┤
+│ STATUS: build_success (felt_it_again)                                 │
+└────────────────────────────────────────────────────────────────────---┘
+ Tôi là một đứa trẻ hơi kì lạ, tôi thích tìm hiểu về lịch sử, đặc biệt là 
+ chiến tranh, tôi thích nghe mọi người kể về các cuộc chiến, thích đọc về 
+ nó, hay thậm chí chơi game về chiến tranh. Tôi nghĩ chắc điều này là do 
+ gene di truyền khi cả ông nội và bố tôi đều là bộ đội. Bạn nào từng là 
+ con nghiện của tựa game Call of duty 1 chắc hẳn còn nhớ phân cảnh của 
+ trận chiến Stalingrad khi Hồng Quân tiến quân chiếm lại Quảng Trường Đỏ, 
+ mẹ ơi tôi chẳng thể nào quên được khoảnh khắc lúc cả tiểu đội đang ở rìa 
+ thành phố, phía trước là kẻ địch, tôi nhớ rõ từng lời của chỉ huy vang 
+ lên bên cạnh tiếng bom đạn khi đó:
+ "For Mother Russia, comrades. Do not turn your back on her!"
+ "Victory or Death!"
+ Và thế là chúng tôi đồng loạt tiến lên vào vùng bom đạn của kẻ thù, 
+ không một chút do dự. Khoảnh khắc đó, tôi nhận ra sự hào hùng không nằm 
+ ở tiếng súng, mà ở sự đồng bộ (sync) tuyệt đối của những trái tim không 
+ biết đến do dự. Một sự lãng mạn bi tráng mà tôi luôn mang theo như một 
+ root-key trong hành trang trưởng thành của mình.
+ Chúc mừng Ngày Chiến Thắng – muộn, nhưng chưa bao giờ là cũ.
