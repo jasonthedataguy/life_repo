@@ -1,0 +1,1 @@
+import type { Metadata } from "next"; import "./globals.css"; export const metadata:Metadata={title:".json — Jason, under revision",description:"A memoir with a version history."}; export default function Layout({children}:{children:React.ReactNode}){return <html lang="vi"><body>{children}</body></html>}
