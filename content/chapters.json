@@ -1,0 +1,30 @@
+[
+  {
+    "slug": "cold-rice",
+    "title": "Bát cơm nguội",
+    "motif": "A cold bowl of rice",
+    "status": "draft",
+    "note": "Love in small habits"
+  },
+  {
+    "slug": "dream-journal",
+    "title": "Những thứ không được lưu lại",
+    "motif": "A yellow-lit metro platform",
+    "status": "rights review",
+    "note": "Memory is an unreliable narrator"
+  },
+  {
+    "slug": "version-28",
+    "title": "Version 28.0.0",
+    "motif": "Wind through a city window",
+    "status": "concept",
+    "note": "I'm 28 today. Life is beautiful, isn't it?"
+  },
+  {
+    "slug": "mary-jane",
+    "title": "To Mary Jane",
+    "motif": "A message at night",
+    "status": "privacy review",
+    "note": "An explanation instead of disappearing"
+  }
+]
